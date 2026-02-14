@@ -17,3 +17,5 @@ if num == 0: print("Number is zero")
 #5
 color = "blue"
 if color == "blue": print("The color is blue")
+
+
